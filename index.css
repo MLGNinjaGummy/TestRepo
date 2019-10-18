@@ -1,0 +1,12 @@
+body {background-color: orange;}
+#Styled {
+  float: right;
+  width: 50%;
+}
+#StyledTwo {
+  float: left;
+}
+#Right {
+  float: right;
+  width: 50%;
+}
